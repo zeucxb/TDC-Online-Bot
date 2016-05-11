@@ -1,0 +1,14 @@
+{
+  "name": "tdconline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZeuCxb",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.2"
+  }
+}
