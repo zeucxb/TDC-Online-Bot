@@ -16,15 +16,15 @@ function bot(email) {
 var email;
 
 for(var i = 0; i <= 100; i++) {
-	email = i + '@hotmail.com';
+	email = 'a' + i + '@hotmail.com';
 
 	bot(email);
 
-	email = i + '@gmail.com';
+	email = 'a' + i + '@gmail.com';
 
 	bot(email);
 
-	email = i + 'yahoo.com';
+	email = 'a' + i + 'yahoo.com';
 
 	bot(email);
 }
