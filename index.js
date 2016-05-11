@@ -15,7 +15,7 @@ function bot(email) {
 
 var email;
 
-for(var i = 1900; i <= 3000; i++) {
+for(var i = 0; i <= 100; i++) {
 	email = i + '@hotmail.com';
 
 	bot(email);
